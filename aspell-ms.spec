@@ -1,5 +1,5 @@
 Summary:	Malay dictionary for aspell
-Summary(pl):	S≥ownik malajski dla aspella
+Summary(pl.UTF-8):   S≈Çownik malajski dla aspella
 Name:		aspell-ms
 Version:	0.50
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Malay dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik malajski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik malajski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
