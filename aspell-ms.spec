@@ -1,5 +1,5 @@
 Summary:	Malay dictionary for aspell
-Summary(pl.UTF-8):   Słownik malajski dla aspella
+Summary(pl.UTF-8):	Słownik malajski dla aspella
 Name:		aspell-ms
 Version:	0.50
 %define	subv	0
