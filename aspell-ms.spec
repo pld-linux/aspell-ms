@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik malajski dla aspella
 Name:		aspell-ms
 Version:	0.50
 %define	subv	0
-Release:	1
+Release:	2
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
